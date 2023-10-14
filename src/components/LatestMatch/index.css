@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.eachLatestContainer {
+  background-color: #1e293b;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  margin: 20px;
+}
+.winnigslatestContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px;
+}
+.imageLogo3 {
+  height: 200px;
+  width: 200px;
+  margin-top: 100px;
+}
+.container4 {
+  padding: 50px;
+  padding-left: 150px;
+}
+.li1 {
+  list-style-type: none;
+}

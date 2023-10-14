@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.matchCon {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.latestCon1 {
+  margin-left: 60px;
+  margin-right: 150px;
+}
+.para7 {
+  font-weight: bold;
+  font-size: 25px;
+  padding-left: 120px;
+}
+.teamImage1 {
+  padding-left: 120px;
+}
